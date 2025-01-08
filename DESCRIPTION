@@ -39,4 +39,4 @@ Language: en-US
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
 Remotes:  
-    r-lib/httr2
+    b-rodrigues/httr2
